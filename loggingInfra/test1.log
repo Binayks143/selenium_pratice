@@ -1,0 +1,15 @@
+2024-03-06 12:45:57,424 - LoggerDemoConf - DEBUG - Debug message
+2024-03-06 12:45:57,424 - LoggerDemoConf - INFO - Info message
+2024-03-06 12:45:57,424 - LoggerDemoConf - WARNING - Warning message
+2024-03-06 12:45:57,424 - LoggerDemoConf - ERROR - Error message
+2024-03-06 12:45:57,424 - LoggerDemoConf - CRITICAL - Critical message
+2024-03-06 12:46:08,080 - LoggerDemoConf - DEBUG - Debug message
+2024-03-06 12:46:08,080 - LoggerDemoConf - INFO - Info message
+2024-03-06 12:46:08,080 - LoggerDemoConf - WARNING - Warning message
+2024-03-06 12:46:08,080 - LoggerDemoConf - ERROR - Error message
+2024-03-06 12:46:08,080 - LoggerDemoConf - CRITICAL - Critical message
+06/03/2024 12:50:21 PM - LoggerDemoConf - DEBUG - Debug message
+06/03/2024 12:50:21 PM - LoggerDemoConf - INFO - Info message
+06/03/2024 12:50:21 PM - LoggerDemoConf - WARNING - Warning message
+06/03/2024 12:50:21 PM - LoggerDemoConf - ERROR - Error message
+06/03/2024 12:50:21 PM - LoggerDemoConf - CRITICAL - Critical message

@@ -1,0 +1,5 @@
+03/06/2024 12:40:44 PM - LoggerDemoConf - DEBUG - Debug message
+03/06/2024 12:40:44 PM - LoggerDemoConf - INFO - Info message
+03/06/2024 12:40:44 PM - LoggerDemoConf - WARNING - Warning message
+03/06/2024 12:40:44 PM - LoggerDemoConf - ERROR - Error message
+03/06/2024 12:40:44 PM - LoggerDemoConf - CRITICAL - Critical message

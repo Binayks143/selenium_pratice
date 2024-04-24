@@ -21,6 +21,12 @@ class ClickandSendkey():
         user_name.send_keys("binay.kumar@smartcoin.co.in")
 
         next = driver.find_element(By.XPATH, "//span[contains(text(),'Next')]")
+        color = next.value_of_css_property("color")
+        # This will return the value of the "color" CSS property for the specified element,
+        # which could be in formats like hex, RGB, RGBA, or named colors depending on how
+        # it's defined in the CSS.
+        print(color)
+
         next.click()
         time.sleep(2)
 

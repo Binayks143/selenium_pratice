@@ -19,5 +19,5 @@ sortedBasedOnKey=dict(sorted(cityCapital.items(),key=lambda item: item[0].lower(
 print(sortedBasedOnKey)
 
 # 4. sort based on value i.e capital
-sortedBasedOnValue=dict(sorted(cityCapital.items(), key=lambda item:item[1].lower()))
+sortedBasedOnValue=dict(sorted(cityCapital.items(), key=lambda item:item[1]))
 print(sortedBasedOnValue)

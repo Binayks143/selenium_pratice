@@ -23,7 +23,7 @@ class LoggerDemoConsole():
     def testlog(self):
         # Create a Logger
         #logger name : LoggerDemoConsole.__name__ , here we can give any name but better to give class name
-        #so that we can get to know from where this log is comming.
+        #so that we can get to know from where this log is coming.
 
         logger=logging.getLogger(LoggerDemoConsole.__name__)
         logger.setLevel(logging.INFO)

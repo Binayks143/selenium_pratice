@@ -23,7 +23,7 @@ def genrate_unique_user_data(n):
     for i in range(n):
         user={
 
-            'name':f"{random_name(5)} {random_name(7)}",
+            'name':f"{random_name(5)} {random_name(9)}",
             'email':random_email(),
             'user_id':str(uuid.uuid4())
         }
